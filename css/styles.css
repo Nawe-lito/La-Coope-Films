@@ -17,17 +17,18 @@ min-height: 100vh;
 }
 
 .titulo {
-  font-size: 10rem;
+  font-size: 1000%;
   color: rgb(255, 255, 255);
 }
 
 .titulo2 {
-  font-size: 6rem;
+  font-size: 800%;
   color: brown;
 }
 
 .seccion {
-  padding: 10em;
+  padding-top: 10em;
+  padding-bottom: 10em;
 }
 
 /* PORTFOLIO */
